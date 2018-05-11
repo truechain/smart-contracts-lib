@@ -1,4 +1,4 @@
-# ERC20代币合约
+# ERC20代币合约
 
 ## True Together Token（TTR）
 
